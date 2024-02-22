@@ -1,4 +1,6 @@
-### Hi there 👋
+[![NHV33's GitHub stats](https://github-readme-stats.vercel.app/api?username=NHV33)](https://github.com/NHV33/github-readme-stats)
+### All About Language
+I focus on building software that helps people to learn new languages.
 
 <!--
 **NHV33/NHV33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
