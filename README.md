@@ -1,4 +1,4 @@
-## [www.vincen.to](http://www.vincen.to/) ⬅ interactive portfolio
+## [ [www.vincen.to](http://www.vincen.to/) ] ⬅ Interactive Portfolio
 
 ### Who am I?
 
@@ -11,6 +11,7 @@ My name is Noel <sup>(rhymes with "soul")</sup>. I'm a full-stack software devel
 | HTML5 / CSS / JS   | 7 Years |
 | Python             | 7 Years |
 | Unity Engine / C#  | 7 Years |
+| Japanese Language  | 18 Years |
 
 [![NHV33's GitHub stats](https://github-readme-stats.vercel.app/api?username=NHV33)](https://github.com/NHV33/github-readme-stats)
 
